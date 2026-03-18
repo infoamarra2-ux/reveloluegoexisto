@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://infoamarra2-ux.github.io/reveloluegoexisto/sitemap.xml
+Sitemap: https://www.reveloluegoexisto.com/sitemap.xml
